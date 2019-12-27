@@ -4,7 +4,7 @@
 ### やったこと
   ledを点滅させて、モールス信号を行いました。
 
-### 実行方法 1
+### 実行方法
 make  
 sudo insmod myled.ko  
 sudo chmod 666 /dev/myled0  
